@@ -1,4 +1,21 @@
-### Hi there 👋
+### Opa, tudo bem? Sou o Heitor Mavignier! 👋
+
+- 🔭 Hoje eu trabalho com projetos de tecnologia
+- 🌱 Estou estudando Python
+- 😄 Pronomes: ele/dele
+- ✨ Entusiasta por automatizações
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=heitormavignier&show_icons=true&theme=gruvbox"
+    media="(prefers-color-scheme: gruvbox)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=heitormavignier&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=heitormavignier&show_icons=true" />
+</picture>
 
 <!--
 **HeitorMavignier/heitormavignier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
