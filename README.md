@@ -1,7 +1,7 @@
 ### Opa, tudo bem? Sou o Heitor Mavignier! 👋
 
 - 🔭 Hoje eu trabalho com projetos de tecnologia
-- 🌱 Estou estudando Python
+- 🌱 Estudando Python
 - 😄 Pronomes: ele/dele
 - ✨ Entusiasta por automatizações
 
